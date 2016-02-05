@@ -18,7 +18,6 @@
         "src/utils.js",
         "src/gameData.js",
         "src/loaderScene.js",
-        "src/app.js",
         "src/mainScene.js",
         "src/btnSlot.js",
         "src/humanItem.js",
