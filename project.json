@@ -1,0 +1,29 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"bower_components/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "res/datas.js",
+        "src/resource.js",
+        "src/config.js",
+        "src/utils.js",
+        "src/gameData.js",
+        "src/loaderScene.js",
+        "src/app.js",
+        "src/mainScene.js",
+        "src/btnSlot.js",
+        "src/humanItem.js",
+        "src/game.js",
+        "src/soundCtrl.js",
+        "src/gameCtrl.js"
+    ]
+}

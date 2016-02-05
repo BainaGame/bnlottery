@@ -1,0 +1,22 @@
+{
+  "name": "bnlottery",
+  "authors": [
+    "wyang <wyang@bainainfo.com>"
+  ],
+  "description": "老虎机式的抽奖程序",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "publish"
+  ],
+  "dependencies": {
+    "cocos2d-html5": "*"
+  }
+}
